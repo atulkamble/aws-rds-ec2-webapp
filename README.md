@@ -1,7 +1,3 @@
-Here’s a **Full AWS RDS Project** with **Code, Steps & Best Practices** that covers creating an RDS MySQL database, connecting from an EC2 instance, and a sample web application.
-
----
-
 # 🚀 **AWS RDS Full Project - EC2 + RDS + Web App**
 
 ---
